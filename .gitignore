@@ -1,0 +1,7 @@
+data/
+__pycache__/
+*.csv
+*.xml
+*.mp4
+*.zip
+BAR-ATH*.txt
